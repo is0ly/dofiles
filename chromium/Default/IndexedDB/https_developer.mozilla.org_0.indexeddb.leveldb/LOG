@@ -1,0 +1,6 @@
+2023/04/30-12:44:23.429 1164d Creating DB /home/ilya/.config/chromium/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb since it was missing.
+2023/04/30-12:44:23.438 1164d Reusing MANIFEST /home/ilya/.config/chromium/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/30-12:44:27.582 182de Level-0 table #5: started
+2023/04/30-12:44:27.586 182de Level-0 table #5: 30068 bytes OK
+2023/04/30-12:44:27.590 182de Delete type=0 #3
+2023/04/30-12:44:27.591 182de Manual compaction at level-0 from (begin) .. (end); will stop at (end)

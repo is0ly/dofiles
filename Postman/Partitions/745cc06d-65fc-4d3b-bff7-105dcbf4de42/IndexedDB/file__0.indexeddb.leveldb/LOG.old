@@ -1,0 +1,10 @@
+2023/04/30-17:20:02.150 1dc9a Creating DB /home/ilya/.config/Postman/Partitions/745cc06d-65fc-4d3b-bff7-105dcbf4de42/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/04/30-17:20:02.208 1dc9a Reusing MANIFEST /home/ilya/.config/Postman/Partitions/745cc06d-65fc-4d3b-bff7-105dcbf4de42/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/04/30-17:20:02.238 1dc2d Level-0 table #5: started
+2023/04/30-17:20:02.247 1dc2d Level-0 table #5: 492 bytes OK
+2023/04/30-17:20:02.254 1dc2d Delete type=0 #3
+2023/04/30-17:20:02.254 1dc2d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-17:20:02.336 1dc9a Level-0 table #7: started
+2023/04/30-17:20:02.347 1dc9a Level-0 table #7: 477 bytes OK
+2023/04/30-17:20:02.354 1dc9a Delete type=0 #4
+2023/04/30-17:20:02.355 1dc9a Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

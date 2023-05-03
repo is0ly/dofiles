@@ -1,0 +1,9 @@
+2023/05/03-09:25:13.768 3 Reusing MANIFEST /home/ilya/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/03-09:25:13.769 3 Recovering log #142
+2023/05/03-09:25:13.795 3 Reusing old log /home/ilya/.config/chromium/Default/Local Storage/leveldb/000142.log 
+2023/05/03-09:28:33.113 5 Level-0 table #147: started
+2023/05/03-09:28:33.123 5 Level-0 table #147: 47191 bytes OK
+2023/05/03-09:28:33.126 5 Delete type=0 #142
+2023/05/03-09:41:21.657 5 Level-0 table #149: started
+2023/05/03-09:41:21.664 5 Level-0 table #149: 75196 bytes OK
+2023/05/03-09:41:21.669 5 Delete type=0 #146
